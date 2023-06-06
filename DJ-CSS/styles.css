@@ -1,0 +1,78 @@
+.box {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 20px;
+    display: inline-block;
+    transition: all 0.3s ease-in-out;
+}
+
+/* .box:hover {
+    background-color: grey;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    opacity: 0.8;
+} */
+
+.box1 {
+    background-color: green;
+}
+
+.box2 {
+    background-color: red;
+}
+
+.box3 {
+    background-color: yellow;
+}
+
+.box4 {
+    background-color: blue;
+}
+
+.box5 {
+    background-color: purple;
+}
+
+.box6 {
+    background-color: orange;
+}
+
+
+
+
+.box1:hover {
+    background-color: orange;
+    border-radius: 50px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.box2:hover {
+    background-color: purple;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.box3:hover {
+    background-color: blue;
+    border-radius: 30px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.box4:hover {
+    background-color: yellow;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.box5:hover {
+    background-color: red;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+
+.box6:hover {
+    background-color: green;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
