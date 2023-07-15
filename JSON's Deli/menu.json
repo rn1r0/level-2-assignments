@@ -1,0 +1,62 @@
+{
+    "appetizers": [
+        {
+            "name": "Chips and Queso",
+            "ingredients": ["tortilla chips", "cheese", "spices"],
+            "description": "Fresh warm tortilla chips, with spicy warm queso."
+        },
+        {
+            "name": "Blooming Onion",
+            "ingredients": ["onion", "eggs", "breadcrumbs","sauce"],
+            "description": "Deep fried blooming onion, with a side of sauce."
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "Italian Hoagie",
+            "ingredients": ["italian bread", "salami", "pepperjack cheese", "pepporoni", "oil", "vinegar"],
+            "description": "Homemade italian hoagie, served with in house dressing."
+        },
+        {
+            "name": "Turkey BLT",
+            "ingredients": ["bread", "turkey", "bacon", "lettuce", "tomato", "mayo", "salt", "pepper"],
+            "description": "Cold BLT!, with turkey."
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "Cheese Steak",
+            "ingredients": ["bread", "cheese", "ground beef", "peppers", "onion"],
+            "description": "Warm toasted bun, with hot steak and cheese, loaded with peppers."
+        },
+        {
+            "name": "Tuna Melt",
+            "ingredients": ["toast", "tuna", "mayo", "cheese", "spices"],
+            "description": "Toasted bread, with tuna and melted cheese."
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Apple Pie",
+            "ingredients": ["apples", "flour", "eggs", "cinnamon"],
+            "description": "Warm apple, pie with fresh grown apples."
+        },
+        {
+            "name": "Twinky",
+            "ingredients": ["sponge cake", "vanilla creme icing", "chocolate"],
+            "description": "Quick off the shelf yummy snack!"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Mimosa",
+            "ingredients": ["fresh orange slice", "orange juice", "alcohol"],
+            "description": "Summer early morning vacation drink!"
+        },
+        {
+            "name": "Coffee",
+            "ingredients": ["coffe", "water", "milk", "sugar"],
+            "description": "Fresh brewed coffee!"
+        }
+    ]
+}
